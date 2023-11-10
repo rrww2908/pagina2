@@ -1,7 +1,9 @@
 body{
     text-align: center;
     font-family: "arial";
-    color: rgb(39, 147, 120);
+
+    color: rgb(0, 0, 0);
+
     font-size: 16px;
     margin: 0;
     padding: 0;
