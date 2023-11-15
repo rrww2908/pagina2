@@ -5,3 +5,8 @@ mañana me toca patinar jajajajaj
 master 1
 
 experimetos 1
+<<<<<<< HEAD
+=======
+
+experimetos 2
+>>>>>>> 5e70f94 (experimentos2)
