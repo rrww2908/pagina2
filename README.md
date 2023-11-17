@@ -7,3 +7,4 @@ En este curso puede ver muchas cosas como son :
 *Aprender de github
 *el profesor es muy chisto la verdad 
 *se crearon estos archivos por ronny jejejeje 
+*se agrago ejemplos de linux y Mac
