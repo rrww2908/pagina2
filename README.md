@@ -5,5 +5,7 @@ un proyecto de aprendizaje de git
 En este curso puede ver muchas cosas como son :
 
 *Aprender de git 
-* Aprender de github
+*Aprender de github
 *el profesor es muy chisto la verdad 
+*se crearon estos archivos por ronny jejejeje 
+*se agrago ejemplos de linux y Mac
